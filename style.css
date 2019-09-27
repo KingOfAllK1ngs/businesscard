@@ -6,8 +6,8 @@ body{
   background: url("bg.jpg") no-repeat;
   background-size: cover;
   background-position: center center;
- 
   height: 100%;
+  
 }
 @font-face {
   font-family: "Befolk";
@@ -102,7 +102,7 @@ h1.aroly {
 
 .wht {
   font-size: 10pt;
-  color:grey;
+  color:#2ecc71;
 }
 
 .text-slicer {
